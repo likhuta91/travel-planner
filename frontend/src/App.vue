@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import "./assets/styles";
+@import "@/assets/styles.scss";
 
 body {
   background: url("./assets/images/background.jpg") no-repeat center center
